@@ -11,7 +11,7 @@ local gears     = require("gears")
 
 -- Lain Cairo separators util submodule
 -- lain.util.separators
-local separators = { height = 0, width = 9 }
+local separators = { height = 0, width = 5 }
 
 -- [[ Arrow
 
